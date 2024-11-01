@@ -1,0 +1,17 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #000;
+}
+
+main {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
