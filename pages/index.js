@@ -11,5 +11,5 @@ export default function Home() {
     }, 5000);
   }, [router]);
 
-  return <main style={{ backgroundImage: 'url("/image9.jpg")' }}></main>;
+  return <main style={{ backgroundImage: 'url("/image10.jpg")' }}></main>;
 }
