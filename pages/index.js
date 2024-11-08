@@ -15,7 +15,7 @@ export default function Home() {
     <main>
       <div style={{ backgroundImage: 'url("/image41.jpg")' }} />
       <div style={{ backgroundImage: 'url("/image42.jpg")' }} />
-      <div style={{ backgroundImage: 'url("/image40.jpg")' }} />
+      <div style={{ backgroundImage: 'url("/image43.jpg")' }} />
     </main>
   );
 }
